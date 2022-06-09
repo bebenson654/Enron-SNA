@@ -1,3 +1,5 @@
+# Notes
+
 Excluded (don't have "sent_items" folder):
     ./maildir\dickson-s
     ./maildir\fossum-d
